@@ -1,0 +1,837 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"ons",
+				"onsubmit\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"fo",
+				"form-control"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"pn",
+				"png"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"_",
+				"_vida"
+			],
+			[
+				"lo",
+				"loop"
+			],
+			[
+				"mag",
+				"margin-left"
+			],
+			[
+				"impo",
+				"importAjax"
+			],
+			[
+				"im",
+				"importAjax"
+			],
+			[
+				"u",
+				"url"
+			],
+			[
+				"H",
+				"HelperAjax"
+			],
+			[
+				"ch",
+				"characters"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"cha",
+				"characters"
+			],
+			[
+				"mo",
+				"modalUpdate"
+			],
+			[
+				"r",
+				"role"
+			],
+			[
+				"tex",
+				"text-lg-left"
+			],
+			[
+				"p",
+				"pagination"
+			],
+			[
+				"cre",
+				"createPagination"
+			],
+			[
+				"co",
+				"cont"
+			],
+			[
+				"cr",
+				"createPagination"
+			],
+			[
+				"pre",
+				"preBtn"
+			],
+			[
+				"pa",
+				"page"
+			],
+			[
+				"g",
+				"galleryView"
+			],
+			[
+				"i",
+				"indice"
+			],
+			[
+				"pag",
+				"paginationView"
+			],
+			[
+				"pagina",
+				"Pagination"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"I",
+				"indexDB"
+			],
+			[
+				"open",
+				"openRequest"
+			],
+			[
+				"op",
+				"openRequest"
+			],
+			[
+				"hi",
+				"pageHistory"
+			],
+			[
+				"page",
+				"pagePosition"
+			],
+			[
+				"pae",
+				"pageHistory"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"ps",
+				"push"
+			],
+			[
+				"pana",
+				"pagination"
+			],
+			[
+				"ca",
+				"cards"
+			],
+			[
+				"CO",
+				"cont"
+			],
+			[
+				"pu",
+				"push"
+			],
+			[
+				"ppa",
+				"paginationUp"
+			],
+			[
+				"car",
+				"card"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"up",
+				"pageUpdate"
+			],
+			[
+				"pgi",
+				"pagination"
+			],
+			[
+				"s",
+				"state"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"a",
+				"atual"
+			],
+			[
+				"stat",
+				"state"
+			],
+			[
+				"reu",
+				"return"
+			],
+			[
+				"render",
+				"renderizarCards"
+			],
+			[
+				"sta",
+				"state"
+			],
+			[
+				"js",
+				"json"
+			],
+			[
+				"com",
+				"Component"
+			],
+			[
+				"bt",
+				"btn-light"
+			],
+			[
+				"pure-",
+				"pure-css"
+			],
+			[
+				"pri",
+				"pricing-table"
+			],
+			[
+				"bo",
+				"Bootstrap"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"tm",
+				"time"
+			],
+			[
+				"o",
+				"objeto"
+			],
+			[
+				"t",
+				"time"
+			],
+			[
+				"cl",
+				"clearInterval"
+			],
+			[
+				"ob",
+				"obj"
+			],
+			[
+				"tim",
+				"time"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"pro",
+				"profissao"
+			],
+			[
+				"si",
+				"sizeof"
+			],
+			[
+				"myql_num",
+				"mysql_num_rows"
+			],
+			[
+				"my",
+				"mysql_affected_rows"
+			],
+			[
+				"mysql_nu",
+				"mysql_num_rows"
+			],
+			[
+				"pos",
+				"_POST"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"incl",
+				"include_once"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"play",
+				"player"
+			],
+			[
+				"pla",
+				"player"
+			],
+			[
+				"e",
+				"emitter"
+			],
+			[
+				"get",
+				"getText"
+			],
+			[
+				"pl",
+				"play"
+			],
+			[
+				"snd",
+				"sndLoserCoin"
+			],
+			[
+				"lose",
+				"loseCoin"
+			],
+			[
+				"ene",
+				"enemy"
+			],
+			[
+				"MO",
+				"movePlayer"
+			],
+			[
+				"n",
+				"newPosition"
+			],
+			[
+				"TI",
+				"this"
+			],
+			[
+				"tt",
+				"txtCoins"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"m",
+				"meta\tTag"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"go",
+				"goLeft"
+			],
+			[
+				"Ph",
+				"physics"
+			],
+			[
+				"star",
+				"starGame"
+			],
+			[
+				"ENTER",
+				"enterKey"
+			],
+			[
+				"te",
+				"txtPressStart"
+			],
+			[
+				"tet",
+				"textlabirinto"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"boder",
+				"border"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"xml",
+				"xmlns"
+			],
+			[
+				"se",
+				"servicos"
+			],
+			[
+				"RE",
+				"requisicao"
+			],
+			[
+				"R",
+				"RequisicaoAjax"
+			],
+			[
+				"sideo",
+				"Sideon"
+			],
+			[
+				"TAB",
+				"tabela"
+			],
+			[
+				"mys",
+				"mysql_connect"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/opt/lampp/htdocs/estudo/sistema_Sideon/login.php",
+		"/opt/lampp/htdocs/estudo/sistema_Sideon/css/style.css",
+		"/opt/lampp/htdocs/estudo/sistema_Sideon/css/bootstrap.css",
+		"/opt/lampp/htdocs/estudo/sistema_Sideon/js/index.js",
+		"/home/rafael/Downloads/flat-login-form/css/style.css",
+		"/home/rafael/Downloads/flat-login-form/index.html",
+		"/opt/lampp/htdocs/estudo/sistema_Sideon/index.php",
+		"/opt/lampp/htdocs/estudo/sistema_Sideon/index.html",
+		"/opt/lampp/htdocs/estudo/sistema_Sideon/recibo.php",
+		"/home/rafael/Área de Trabalho/Brochura.html",
+		"/home/rafael/Área de Trabalho/Sistema/index.html",
+		"/home/rafael/Área de Trabalho/recibo.php",
+		"/home/rafael/Área de Trabalho/Sistema/Brochura.html",
+		"/home/rafael/Área de Trabalho/Sistema/bootstrap/bootstrap.css",
+		"/home/rafael/Downloads/Brochura/Brochura.html",
+		"/home/rafael/Área de Trabalho/game/index.html",
+		"/home/rafael/Área de Trabalho/game/js/Game.js",
+		"/home/rafael/Área de Trabalho/teste/index.html",
+		"/home/rafael/Área de Trabalho/teste/homemDeFerrp.html",
+		"/home/rafael/Área de Trabalho/index.html",
+		"/home/rafael/Documentos/estudo/testeMemoria/code.js",
+		"/home/rafael/Área de Trabalho/game/js/status.js",
+		"/home/rafael/Documentos/estudo/testeMemoria/Joystick.js",
+		"/home/rafael/Área de Trabalho/game/js/Animation.js",
+		"/home/rafael/Documentos/estudo/estudo de movimentação/js/sprite.js",
+		"/home/rafael/Documentos/estudo/estudo de movimentação/js/script.js",
+		"/home/rafael/Área de Trabalho/game/js/Player.js",
+		"/home/rafael/Documentos/estudo/testeMemoria/colisão.html",
+		"/home/rafael/Documentos/paginacao/js/ControllersPage.js",
+		"/home/rafael/Documentos/paginacao/index.html",
+		"/opt/lampp/htdocs/estudo/game/DarkSide/www/index.html",
+		"/home/rafael/Downloads/MyLogin.github.io-master/index.html",
+		"/home/rafael/Downloads/MyLogin.github.io-master/js/style.js",
+		"/home/rafael/Downloads/MyLogin.github.io-master/js/Cadastro.js",
+		"/opt/lampp/htdocs/estudo/paginacao/js/helper/HelperAjax.js",
+		"/opt/lampp/htdocs/estudo/paginacao/index.html",
+		"/opt/lampp/htdocs/estudo/paginacao/js/ControllersPage.js",
+		"/opt/lampp/htdocs/estudo/paginacao/js/HelperAjax.js",
+		"/home/rafael/Documentos/portifólio/estudo/js/View/View.js",
+		"/home/rafael/Documentos/portifólio/Inventario/js/helper/DateHelper.js",
+		"/home/rafael/Área de Trabalho/paginacao/js/Ajax.js",
+		"/home/rafael/Área de Trabalho/paginacao/js/view/GalleryView.js",
+		"/home/rafael/Área de Trabalho/paginacao/js/ControllersPage.js",
+		"/home/rafael/Área de Trabalho/paginacao/index.html",
+		"/home/rafael/Documentos/portifólio/Inventario/js/ControllerInventario.js",
+		"/opt/lampp/htdocs/estudo/pesquisa/js/ajax/ajax.js",
+		"/home/rafael/Área de Trabalho/paginacao/js/view/View.js",
+		"/home/rafael/Área de Trabalho/paginacao/js/view/modal.js",
+		"/home/rafael/Área de Trabalho/paginacao/js/view/PaginationView.js",
+		"/home/rafael/Área de Trabalho/paginacao/js/models/Ficha.js",
+		"/home/rafael/Área de Trabalho/paginacao/js/view/ModaView.js",
+		"/opt/lampp/htdocs/estudo/pesquisa/index.html",
+		"/home/rafael/Downloads/css-modal-master/css/cssmodal--maxwidth.css",
+		"/home/rafael/Área de Trabalho/paginacao/js/view/jquery.js",
+		"/home/rafael/Área de Trabalho/paginacao/js/Controllerspage.js",
+		"/home/rafael/Documentos/portifólio/estudo/js/View/DeliveryView.js",
+		"/home/rafael/Área de Trabalho/paginacao/js/view/teste.html",
+		"/home/rafael/Área de Trabalho/paginacao/js/models/Pagination.js",
+		"/home/rafael/Área de Trabalho/paginacao/js/Pagination.js",
+		"/home/rafael/Área de Trabalho/paginacao/bootstrap.min.css",
+		"/home/rafael/Documentos/rickpedia/src/App.js",
+		"/home/rafael/Documentos/portifólio/estudo/js/Controllers.js",
+		"/home/rafael/Área de Trabalho/paginacao/js/PaginationView.js",
+		"/home/rafael/Documentos/javascript-avancado-i-aula1/aluraframe/client/js/NegosiacaoController.js",
+		"/home/rafael/Documentos/javascript-avancado-i-aula1/aluraframe/client/js/View/View.js",
+		"/home/rafael/Documentos/javascript-avancado-i-aula1/aluraframe/client/js/View/NegociacaoView.js",
+		"/home/rafael/Área de Trabalho/paginacao/js/rickmorty.json",
+		"/home/rafael/Área de Trabalho/Pagination.js",
+		"/home/rafael/Documentos/rickpedia/package.json",
+		"/home/rafael/Documentos/rickpedia/src/jquery.js",
+		"/home/rafael/Downloads/modal-master/index.html",
+		"/home/rafael/Downloads/drublic-css-modal-400e792/index.html",
+		"/home/rafael/Downloads/modal-master/modal.css",
+		"/home/rafael/Documentos/rickpedia/src/bootstrap.js",
+		"/home/rafael/Área de Trabalho/untitled.html",
+		"/home/rafael/Área de Trabalho/pure-layout-pricing/index.html",
+		"/home/rafael/Área de Trabalho/pure-layout-pricing/css/layouts/modal.css",
+		"/home/rafael/Área de Trabalho/pure-layout-pricing/css/layouts/moda.css",
+		"/home/rafael/Documentos/rickpedia/rickpedia/src/App.js",
+		"/home/rafael/Área de Trabalho/pure-layout-pricing/css/layouts/pure-css.css",
+		"/home/rafael/Área de Trabalho/pure-layout-pricing/css/layouts/pricing.css",
+		"/home/rafael/alurapic/public/index.html",
+		"/home/rafael/Documentos/app/my-app/src/App.js",
+		"/home/rafael/Documentos/portifólio/Inventario/index.html",
+		"/home/rafael/Documentos/app/my-app/src/rick&morty.json",
+		"/opt/lampp/htdocs/estudo/Ranara/js/ajax/ajax.js",
+		"/home/rafael/Downloads/pure-layout-side-menu/index.html",
+		"/home/rafael/Documentos/app/my-app/src/index.js",
+		"/home/rafael/node-js-getting-started/views/pages/index.ejs",
+		"/home/rafael/Documentos/app/my-app/src/App.test.js",
+		"/home/rafael/Documentos/app/my-app/src/index.css",
+		"/home/rafael/Documentos/app/my-app/package.json",
+		"/home/rafael/Documentos/app/index.html",
+		"/home/rafael/node-teste/views/produtos/estudo.ejs",
+		"/home/rafael/node-js-getting-started/index.js",
+		"/home/rafael/Documentos/curso-Git/index.html",
+		"/home/rafael/alurapic/public/js/main.js",
+		"/home/rafael/alurapic/public/js/controllers/fotos-controllers.js",
+		"/home/rafael/alurapic/server.js",
+		"/home/rafael/alurapic/config/database.js",
+		"/home/rafael/alurapic/app/routes/index.js",
+		"/home/rafael/alurapic/npm-debug.log",
+		"/home/rafael/Documentos/video aula/Angular/01-alurapic/alurapic/package.json",
+		"/home/rafael/Documentos/video aula/Angular/serve/alurapic/app/routes/index.js",
+		"/home/rafael/Documentos/video aula/Angular/serve/alurapic/config/database.js",
+		"/home/rafael/Documentos/video aula/Angular/serve/alurapic/data.db",
+		"/home/rafael/Documentos/video aula/Angular/01-alurapic/alurapic/server.js",
+		"/home/rafael/chat-io/app.js",
+		"/home/rafael/node-teste/app.js",
+		"/home/rafael/Documentos/porcentagem/index.html",
+		"/home/rafael/Documentos/porcentagem/js/Controllers.js",
+		"/home/rafael/Documentos/porcentagem/js/View.js",
+		"/home/rafael/Documentos/porcentagem/css/bootstrap.css",
+		"/home/rafael/Documentos/porcentagem/js/script.js",
+		"/home/rafael/Documentos/porcentagem/js/personagem.js",
+		"/home/rafael/Área de Trabalho/porcentagem/index.html",
+		"/home/rafael/Área de Trabalho/porcentagem/js/calcular.js",
+		"/home/rafael/Documentos/curso-Git/estilo.css",
+		"/home/rafael/Área de Trabalho/curso-Git/estilo.css",
+		"/home/rafael/Área de Trabalho/curso-Git/index.html",
+		"/opt/lampp/htdocs/estudo/pesquisa/php/pesquisa.php",
+		"/home/rafael/Downloads/clientes.sql",
+		"/home/rafael/Downloads/Barra-de-pesquisa-com-Ajax-master/pesquisa/index.html",
+		"/opt/lampp/htdocs/estudo/pesquisa/php/pesquisa-resultado.php",
+		"/opt/lampp/htdocs/estudo/pesquisa/js/ajax/style.js",
+		"/home/rafael/Área de Trabalho/portifólio/Inventario/js/ControllerInventario.js",
+		"/home/rafael/Área de Trabalho/portifólio/Inventario/index.html",
+		"/opt/lampp/htdocs/estudo/Ranara/classes/vendas.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"image",
+			"id",
+			"url",
+			"id",
+			"\"",
+			"pagination",
+			"className",
+			"classNameName",
+			"class",
+			"';\n",
+			"classNameName",
+			"class",
+			"classNameNAME",
+			"class",
+			"classNameName",
+			"class",
+			"    <link rel=\"stylesheet\" href=\"css/layouts/pricing.css\">\n",
+			"count",
+			"info",
+			"class",
+			");\n",
+			"}\n",
+			"script",
+			"();*/\n",
+			"        <li><a href=\"#\">Entrar em Contat</a></li>\n",
+			"              <li> - Suporte online 24 horas</li>\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"info",
+			"\"id\"",
+			"\"url\"",
+			"\"id\"",
+			"'",
+			"class",
+			"className"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 148.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

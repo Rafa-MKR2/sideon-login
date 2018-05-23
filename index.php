@@ -1,3 +1,6 @@
+
+<?php include('login.php') ?>
+
 <!DOCTYPE html>
 <html lang="pt-br" >
 
@@ -20,11 +23,18 @@
 <div class="container">
   <div class="info">
     <h1>Sideon</h1>
+
   </div>
 </div>
 
+<?php if(isset($_COOKIE["user"])){  ?>
+<div class="alert alert-success" role="alert" style="text-align:center;">
+     Bem Vindo(a)!
+
+ </div>
 
 
+<?php }else{  ?>
 
 <div class="form">
 
@@ -32,10 +42,10 @@
 
  
   <!-- Formulario de Login -->
-  <form class="login-form" method="POST">
+  <form id="login" class="login-form"  method="POST" >
 
-    <input type="email" class="form-control" placeholder="E-mail"  required />
-    <input type="password" placeholder="Senha" class="form-control" required/>
+    <input type="email" name="email" class="form-control" placeholder="E-mail"  required="" />
+    <input type="password" name="senha" placeholder="Senha" class="form-control" required/>
     <button type="submit" class="btn btn-primary "> Entrar </button> 
         <p class="message">Não possui conta? <a href="#">Cadastre-se</a></p>
 
@@ -56,10 +66,12 @@
 
 </div>
 
+<?php }?>
 
 
   <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
   <script  src="js/index.js"></script>
+
 
 </body>
 
